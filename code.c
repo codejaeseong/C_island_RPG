@@ -264,31 +264,6 @@ void sbar_hunt()
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 //그림
 void forest_pic()
 {
