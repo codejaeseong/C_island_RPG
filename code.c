@@ -1,3 +1,5 @@
+// c언어 과제 무인도 게임 RPG
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<Windows.h>
